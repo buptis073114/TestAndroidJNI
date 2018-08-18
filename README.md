@@ -5,7 +5,7 @@ TestAndroidJNI
 
 联系方式：sushuai2008@qq.com。有何问题可以给我发邮件
 
-donate：
+donate：（打赏幸苦费）
 
 ![image](https://github.com/buptis073114/TestAndroidJNI/blob/master/1130108806.jpg)
 ![image](https://github.com/buptis073114/TestAndroidJNI/blob/master/1381875294.jpg)
